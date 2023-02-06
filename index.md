@@ -6,3 +6,7 @@
 [下载jdk17](https://download.bell-sw.com/java/17.0.6+10/bellsoft-jdk17.0.6+10-windows-amd64.zip)
 ### 2.安装mc启动器
 [下载HMCL](https://maven.aliyun.com/repository/central/org/glavo/hmcl/hmcl-dev/3.5.3.228/hmcl-dev-3.5.3.228.jar)
+### 3.启动脚本
+```
+start .\java\jdk17\bin\java.exe -jar HMCL.jar
+```
